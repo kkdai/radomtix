@@ -13,7 +13,7 @@ Install
 Usage
 ---------------------
 
-    radomtix -n 10  
+    radomtix -n 10  -l 5
 
 
 
@@ -21,6 +21,7 @@ Options
 ---------------
 
 - `-n` number of tickets. (default is 10)
+- `-l` length of string. (default is 6)
 
 
 Contribute
