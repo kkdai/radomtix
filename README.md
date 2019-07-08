@@ -1,8 +1,10 @@
-RandomTix: The Radom Ticket coonsole in Go
+RandomTix: The Radom Ticket invitation code (Random string) generator in Go.
 ======================
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/radomtix/master/LICENSE) [![Build Status](https://travis-ci.org/kkdai/radomtix.svg)](https://travis-ci.org/kkdai/radomtix)
 
+This is a console tool will generate invitation code by requeust length and number of code you need. 
 
+This tool for community organizers who need to generate meetup invitation code by themselves.
 
 
 Install
@@ -12,8 +14,20 @@ Install
 
 Usage
 ---------------------
-
+    //To display 10 invitation code with length 5
     radomtix -n 10  -l 5
+
+    //Response.
+    EHXPM
+    SYTKS
+    UFIRP
+    JWSTS
+    BRGCE
+    SOYGS
+    PPAIQ
+    UPKRJ
+    UCTHD
+    TTJNX
 
 
 
