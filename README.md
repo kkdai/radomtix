@@ -1,6 +1,7 @@
 RandomTix: The Radom Ticket invitation code (Random string) generator in Go.
 ======================
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/radomtix/master/LICENSE) [![Build Status](https://travis-ci.org/kkdai/radomtix.svg)](https://travis-ci.org/kkdai/radomtix)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/radomtix/master/LICENSE)![Go](https://github.com/kkdai/radomtix/workflows/Go/badge.svg)
+
 
 This is a console tool will generate invitation code by requeust length and number of code you need. 
 
