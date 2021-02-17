@@ -22,7 +22,7 @@ func main() {
 	}
 
 	if lenString < 0 {
-		numTickets = DefaultLength
+		lenString = DefaultLength
 	}
 
 	for numTickets > 0 {
